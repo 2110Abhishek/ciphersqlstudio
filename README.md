@@ -44,7 +44,7 @@ npm start
 ```
 
 ## Data-Flow Diagram
-Below is the logic flow. *Note: For submission, please draw this by hand based on this logic.*
+Below is the logic flow. 
 
 ```mermaid
 graph TD
@@ -65,3 +65,4 @@ graph TD
 - `PG_URI`: PostgreSQL connection string.
 - `GEMINI_API_KEY`: Google Gemini API Key.
 - `PORT`: Server port (default 5000).
+
